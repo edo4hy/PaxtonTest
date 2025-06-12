@@ -1,4 +1,4 @@
-2 project 
+2 projects 
 
 Start up instructions in their respective README's
 
